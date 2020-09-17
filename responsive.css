@@ -1,0 +1,154 @@
+@media screen and (max-width:1200px){
+	.navbar-right {
+
+		margin-right: -70px;
+		
+	}
+}
+@media screen and (max-width:1164px){
+	
+	.nav > li > a {
+		padding: 10px 9px;
+	
+	}
+	.navbar-right {
+		margin-right: -65px;
+	}
+	.navbar-nav > li > a {
+		line-height: 20px;
+	}
+	.item h2 {
+		font-size: 60px;
+		max-width: 500px;
+	}
+	.item h3 {
+		font-size: 30px;
+		margin-top: 60px;
+		margin-bottom: 20px;
+	}
+	.item h4 {
+		font-size: 23px;
+		margin-top: 20px;
+	}
+}
+@media screen and (max-width:992px){
+	.element-item {
+		width: 50%;
+	}
+}
+@media screen and (max-width:768px){
+.item h3{
+	font-size:23px;
+}
+.item h2{
+	font-size:50px;
+	max-width: 400px;
+}
+.item h4{
+	font-size:17px;
+}
+.about-icon{
+	max-width:292px;
+	margin:0 auto;
+	margin-bottom:30px;
+}
+.about-top p{
+	max-width:500px;
+}
+.service-top p{
+	max-width:500px;
+}
+.service-image-wrap{
+	max-width:292px;
+	margin:0 auto;
+	margin-bottom:30px;
+}
+#portfolio p{
+	max-width:500px;
+}
+
+
+
+.pricing-top p{
+	max-width:500px;
+}
+.pricing-sell{
+	max-width:292px;
+	margin:0 auto;
+	margin-bottom:30px;
+}
+.counter-wrap{
+	max-width:292px;
+	margin:0 auto;
+	margin-bottom:30px;
+}
+.contact-top p{
+	max-width:500px;
+}
+.counter-wrapper{
+	padding-bottom:60px;
+}
+.footer-text p{
+	font-size:12px;
+}
+.footer-icon i {
+	font-size:18px;
+}
+.element-item {
+	width: 100%;
+}
+.isotope-overlay h2 {
+	margin-top: 140px;
+}
+}
+@media screen and (max-width:560px){
+	.item h3 {
+		font-size: 18px;
+	}
+	.item h2 {
+		font-size: 30px;
+		max-width: 250px;
+	}
+	.item h4 {
+		font-size: 15px;
+	}
+	.carousel-indicators li {
+		height: 10px;
+		width: 10px;
+	}
+	.carousel-indicators .active {
+		height: 10px;
+		width: 10px;
+	}
+	.about-top h2 {
+		font-size: 26px;}
+	.about-icon h2 {
+			font-size: 20px;
+		}
+		.service-top h2 {
+		font-size: 26px;
+		}
+		#portfolio h2{
+			font-size: 26px;
+		}
+		.pricing-top h2{
+			font-size: 26px;
+		}
+		.contact-top h2{
+			font-size: 26px;
+		}
+		
+		
+}
+@media screen and (max-width:410px){
+	.button-group .button {
+		margin-right: 10px;
+		margin-bottom: 15px;
+		width: 120px;
+	}
+	.isotope-overlay h2 {
+		margin-top: 90px;
+	}
+	
+	
+}
